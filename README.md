@@ -13,7 +13,7 @@ Requirements
 
 Download/Installation
 ====
-* git clone https://github.com/maldevel/IPGeoLocation
+* git clone https://github.com/TechDossier/IPGeoLocation
 * pip3 install -r requirements.txt --user
 
 if pip3 is missing:
